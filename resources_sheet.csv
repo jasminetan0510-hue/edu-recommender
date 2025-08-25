@@ -1,0 +1,21 @@
+id,title,description,tags,link,rating
+1,Intro to Python,Beginner-friendly Python basics tutorial,"python, beginner, programming",https://docs.python.org/3/tutorial/,4.7
+2,Learn C++,Covers core C++ syntax and examples,"c++, programming, beginner",https://www.learncpp.com/,4.6
+3,Java Programming Basics,Interactive Java lessons for beginners,"java, oop, beginner",https://www.codecademy.com/learn/learn-java,4.5
+4,SQL Crash Course,Fast-paced intro to SQL queries,"sql, databases, data",https://www.youtube.com/watch?v=HXV3zeQKqGY,4.6
+5,Khan Academy: Linear Algebra,"Vectors, matrices, and applications","math, linear algebra",https://www.khanacademy.org/math/linear-algebra,4.5
+6,Khan Academy: Statistics & Probability,"Covers probability, distributions, and inference","statistics, probability, math",https://www.khanacademy.org/math/statistics-probability,4.6
+7,Deep Learning Specialization,Comprehensive deep learning courses by Andrew Ng,"ai, deep learning, neural networks",https://www.coursera.org/specializations/deep-learning,4.8
+8,CS50’s Introduction to Computer Science,Harvard’s famous computer science intro,"cs, fundamentals, programming",https://cs50.harvard.edu/x/,4.9
+9,LeetCode,Coding practice with problems & solutions,"coding, interview, practice",https://leetcode.com/,4.7
+10,Project Euler,Math-based coding challenges,"math, coding, puzzles",https://projecteuler.net/,4.5
+11,MIT OpenCourseWare: Algorithms,Free algorithms lectures and notes,"algorithms, cs, intermediate",https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/,4.7
+12,Fast.ai,Practical deep learning course with projects,"ai, deep learning, hands-on",https://course.fast.ai/,4.7
+13,Google ML Crash Course,Quick machine learning intro with TensorFlow,"machine learning, tensorflow, beginner",https://developers.google.com/machine-learning/crash-course,4.6
+14,GeeksforGeeks,Articles and tutorials across CS topics,"cs, programming, data structures",https://www.geeksforgeeks.org/,4.6
+15,W3Schools: Web Development,"Learn HTML, CSS, JavaScript basics","web, frontend, beginner",https://www.w3schools.com/,4.4
+16,MDN Web Docs,Official docs for web technologies,"web, frontend, docs",https://developer.mozilla.org/,4.8
+17,Brilliant.org,Interactive math and science problem solving,"math, science, interactive",https://brilliant.org/,4.6
+18,Kaggle,Data science competitions & datasets,"data science, machine learning, practice",https://www.kaggle.com/,4.7
+19,Stanford Machine Learning (YouTube),Classic ML course by Andrew Ng,"machine learning, ai, beginner",https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599,4.8
+20,HackerRank,Coding practice and interview prep,"coding, interview, practice",https://www.hackerrank.com/,4.6
